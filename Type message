@@ -1,0 +1,13 @@
+import java.io.*;
+
+class Hello
+{
+public static void main(String[] args)
+{
+Scanner sc= new Scanner(System.in());
+System.out.println("Enter a message you want to display: ");
+String n= sc.nextLine();
+System.out.println("n");
+
+}
+}
